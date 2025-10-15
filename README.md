@@ -1,6 +1,6 @@
 # Yassine Badaoui
 
-### Développeur Full Stack | Étudiant ESGI Aix-en-Provence
+### Développeur Full Stack | Étudiant en BUT3 Informatique
 
 Passionné par le développement web et les technologies modernes, je crée des applications web interactives et des solutions innovantes.
 
