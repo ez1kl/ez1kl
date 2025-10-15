@@ -1,4 +1,4 @@
-# Salut, moi c'est Yassine Badaoui
+# Yassine Badaoui
 
 ### Développeur Full Stack | Étudiant ESGI Aix-en-Provence
 
@@ -12,7 +12,8 @@ Passionné par le développement web et les technologies modernes, je crée des 
 - J'apprends continuellement de nouvelles technologies et frameworks
 - Spécialisé en **développement frontend** avec React et en **conception UI/UX**
 - Anciennement **Technicien-vendeur** chez LDLC
-- Formation à l'**ESGI Aix-en-Provence** - Expert en développement logiciel
+- Anciennement en formation à l'**ESGI Aix-en-Provence** - Expert en développement logiciel
+- Désormais en BUT Informatique afin d'acceder à une école d'ingénieur par la suite
 
 ---
 
@@ -42,7 +43,7 @@ Passionné par le développement web et les technologies modernes, je crée des 
 
 ---
 
-## Projets principaux
+## Quelques exemples de projets
 
 ### [Java Revolution - L'Ombre de la Guillotine](https://github.com/ez1kl/java-revolution)
 Un RPG narratif interactif inspiré du "Livre dont vous êtes le héros". Plongez dans la France révolutionnaire de 1789.
@@ -59,42 +60,6 @@ Mon portfolio interactif avec animations 3D et effets modernes.
 - **Tech Stack** : React, Three.js, Framer Motion, TailwindCSS, Vite
 - **Features** : Animations 3D, design responsive, contact form intégré
 
----
-
-## Statistiques GitHub
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=ez1kl&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=ez1kl&layout=compact&theme=radical&hide_border=true)
-
----
-
-## Organisation des projets
-
-### Projets Académiques (ESGI)
-- **Java Revolution** - Projet annuel Java POO
-- **Motus Game** - Projet C avancé avec SDL2
-
-### Projets Professionnels
-- **Portfolio** - Site vitrine personnel
-- Contributions open source à venir
-
-### Projets Personnels
-- Expérimentations avec Three.js et WebGL
-- Mini-projets algorithmiques
-- Scripts d'automatisation
-
----
-
-## Objectifs 2025
-
-- Contribuer à des projets open source
-- Maîtriser TypeScript et Next.js
-- Approfondir mes connaissances en architecture logicielle
-- Développer une application mobile avec React Native
-- Améliorer mes compétences en DevOps et CI/CD
-
----
 
 ## Contact
 
