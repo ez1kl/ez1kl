@@ -45,6 +45,16 @@ Passionné par le développement web et les technologies modernes, je crée des 
 
 ## Quelques exemples de projets
 
+### [Portfolio Personnel](https://github.com/ez1kl/Portfolio)
+Mon portfolio interactif avec animations 3D et effets modernes.
+- **Tech Stack** : React, Three.js, Framer Motion, TailwindCSS, Vite
+- **Features** : Animations 3D, design responsive, contact form intégré
+
+### [SoSafe](https://github.com/ez1kl/sosafe)
+Plateforme de sensibilisation à la cybersécurité avec modules interactifs et certifications.
+- **Tech Stack** : Node.js, Express, React, MySQL
+- **Features** : Système de modules d'apprentissage, certifications, scénarios interactifs
+
 ### [Java Revolution - L'Ombre de la Guillotine](https://github.com/ez1kl/java-revolution)
 Un RPG narratif interactif inspiré du "Livre dont vous êtes le héros". Plongez dans la France révolutionnaire de 1789.
 - **Tech Stack** : Java, Swing, Maven, H2 Database
@@ -54,12 +64,6 @@ Un RPG narratif interactif inspiré du "Livre dont vous êtes le héros". Plonge
 Jeu de lettres inspiré du célèbre jeu télévisé Motus, développé en C avec SDL2.
 - **Tech Stack** : C, SDL2, SDL2_ttf
 - **Features** : Interface graphique, système de score, sauvegarde de partie
-
-### [Portfolio Personnel](https://github.com/ez1kl/Portfolio)
-Mon portfolio interactif avec animations 3D et effets modernes.
-- **Tech Stack** : React, Three.js, Framer Motion, TailwindCSS, Vite
-- **Features** : Animations 3D, design responsive, contact form intégré
-
 
 ## Contact
 
